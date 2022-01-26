@@ -1,0 +1,19 @@
+
+// 默认主题
+.default-theme{
+  --el-menu-hover-bacjground:#409eff
+}
+
+// 暗黑主题
+.dark-theme{
+  --global-color:#ffffff; // 全局的字体样式
+  --main-background-color:#292a2f;    // 中间模块背景色
+  --footer-background-color:#292a2f;  // 底部的背景颜
+  --el-menu-hover-bacjground:#515257;
+  .el-menu{
+    --el-menu-background-color:#292a2f ;  // 菜单项的背景颜色
+    --el-menu-text-color:#ffffff;         // 菜单项的文本颜色
+    --el-menu-border-color: #515257;      // 菜单项的border颜色
+  }
+}
+
