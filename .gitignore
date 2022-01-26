@@ -1,8 +1,10 @@
 node_modules
 .DS_Store
+.idea
+idea
 dist
 dist-ssr
 *.local
 .vscode*
 yarn-error.log
-
+*.log
